@@ -1,2 +1,4 @@
 # TapGirlPaheter
-TapGirl(Unity)
+TapGirl
+Написано на Unity + C#
+Игра для YG

@@ -4,5 +4,4 @@ TapGirl
 Игра для YG
 Исходник из юнити очень тяжелый. 
 
-
-Загрузка крашится
+https://yandex.ru/games/app/250160?draft=true&lang=ru
